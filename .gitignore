@@ -1,0 +1,11 @@
+# dependencies
+/.venv
+/db.sqlite3
+
+# env files
+.env*
+
+# archives
+/programas
+/manuais
+/icones
